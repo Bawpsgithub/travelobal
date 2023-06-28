@@ -1,5 +1,6 @@
 # travelobal
 Travel App Figma UI/UX Design
+Welcome to our flight, hotel, and tour booking application, where convenience meets elegance in an interface designed to simplify your travel planning process. Our user-friendly interface combines sleek aesthetics with intuitive functionality, providing you with a seamless and enjoyable booking experience. 
 
 Link: 
 
